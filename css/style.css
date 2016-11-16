@@ -23,13 +23,13 @@ img {
      max-width: 200px;
 }
 p {
-    margin-bottom: 40px;
+    margin-bottom: 100px;
     color: #494e50;
     font-size: 1.125em;
 }
 .contact a {
     padding: 10px 15px;
-    background-color: #00cccc;
+    background-color: transparent;
     border: 1px solid #00cccc;
     color: #202528;
     font-size: 1.150em;
@@ -42,9 +42,9 @@ p {
 
 .contact a:hover {
     padding: 10px 15px;
-    border: 1px solid #00cccc;
-    background-color: transparent;
-    color: #202528;
+    border: 1px solid #494e50;
+    background-color: #494e50;
+    color: #ffffff;
     font-weight: 400;
     text-decoration: none;
     border-radius: 2px;
